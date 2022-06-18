@@ -1,0 +1,54 @@
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\hotelcmsserver.exe
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\hotelcmsserver.deps.json
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\hotelcmsserver.runtimeconfig.json
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\hotelcmsserver.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\ref\hotelcmsserver.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\hotelcmsserver.pdb
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.csproj.AssemblyReference.cache
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.AssemblyInfoInputs.cache
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.AssemblyInfo.cs
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.csproj.CoreCompileInputs.cache
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\scopedcss\bundle\hotelcmsserver.styles.css
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.csproj.CopyComplete
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\ref\hotelcmsserver.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.pdb
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.genruntimeconfig.cache
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\hotelcmsserver.exe
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\hotelcmsserver.deps.json
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\hotelcmsserver.runtimeconfig.json
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\hotelcmsserver.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\ref\hotelcmsserver.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\hotelcmsserver.pdb
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.csproj.AssemblyReference.cache
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.AssemblyInfoInputs.cache
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.AssemblyInfo.cs
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.csproj.CoreCompileInputs.cache
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\scopedcss\bundle\hotelcmsserver.styles.css
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.csproj.CopyComplete
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\ref\hotelcmsserver.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.pdb
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\hotel-cms\hotelcmsserver\obj\Debug\net6.0\hotelcmsserver.genruntimeconfig.cache

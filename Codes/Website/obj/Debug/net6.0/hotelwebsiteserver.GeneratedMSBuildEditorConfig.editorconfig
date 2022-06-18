@@ -1,0 +1,72 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = hotelwebsiteserver
+build_property.RootNamespace = hotelwebsiteserver
+build_property.ProjectDir = C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/avmim/Desktop/Silicon Valley/Bootcamp Codes/Back End Development/Finest Tokyo Hotel/Codes/Website/Views/AboutPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avmim/Desktop/Silicon Valley/Bootcamp Codes/Back End Development/Finest Tokyo Hotel/Codes/Website/Views/ConfirmationPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmlybWF0aW9uUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avmim/Desktop/Silicon Valley/Bootcamp Codes/Back End Development/Finest Tokyo Hotel/Codes/Website/Views/DineWithUsPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGluZVdpdGhVc1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avmim/Desktop/Silicon Valley/Bootcamp Codes/Back End Development/Finest Tokyo Hotel/Codes/Website/Views/DiningConfirmationPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGluaW5nQ29uZmlybWF0aW9uUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avmim/Desktop/Silicon Valley/Bootcamp Codes/Back End Development/Finest Tokyo Hotel/Codes/Website/Views/DiningReservationFormPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGluaW5nUmVzZXJ2YXRpb25Gb3JtUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avmim/Desktop/Silicon Valley/Bootcamp Codes/Back End Development/Finest Tokyo Hotel/Codes/Website/Views/DiningReservationPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGluaW5nUmVzZXJ2YXRpb25QYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avmim/Desktop/Silicon Valley/Bootcamp Codes/Back End Development/Finest Tokyo Hotel/Codes/Website/Views/EntryPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cnlQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avmim/Desktop/Silicon Valley/Bootcamp Codes/Back End Development/Finest Tokyo Hotel/Codes/Website/Views/LandingPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZGluZ1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avmim/Desktop/Silicon Valley/Bootcamp Codes/Back End Development/Finest Tokyo Hotel/Codes/Website/Views/OffersPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2ZmZXJzUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avmim/Desktop/Silicon Valley/Bootcamp Codes/Back End Development/Finest Tokyo Hotel/Codes/Website/Views/ReachUsPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhY2hVc1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avmim/Desktop/Silicon Valley/Bootcamp Codes/Back End Development/Finest Tokyo Hotel/Codes/Website/Views/ReservationFormPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25Gb3JtUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avmim/Desktop/Silicon Valley/Bootcamp Codes/Back End Development/Finest Tokyo Hotel/Codes/Website/Views/ReservationSuccessful.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25TdWNjZXNzZnVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avmim/Desktop/Silicon Valley/Bootcamp Codes/Back End Development/Finest Tokyo Hotel/Codes/Website/Views/RoomReservationPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbVJlc2VydmF0aW9uUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/avmim/Desktop/Silicon Valley/Bootcamp Codes/Back End Development/Finest Tokyo Hotel/Codes/Website/Views/StayWithUsPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RheVdpdGhVc1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

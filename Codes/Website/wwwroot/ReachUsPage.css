@@ -1,0 +1,70 @@
+
+.logoloc{
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+    border-bottom: 2px solid #D36423;
+    margin: 0px 200px;
+}
+
+.logoloc>a>img{
+    width:600px;
+}
+
+.location{
+    display: flex;
+    margin: 100px 0px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.location > .reachus{
+    width: 300px;
+    font-family: monospace;
+    font-size: 15px;
+    padding: 0px 30px 300px 30px;
+}
+
+.reachus>.reachus1{
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.reachus>.reachus2{
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+.map>img{
+    padding-left: 200px;
+}
+
+.footerloc{
+    display: flex;
+    margin: 150px 0px 0px;
+    border-top: 1px solid #D36423;
+    justify-content:space-evenly;
+}
+
+.footerloc>img{
+    width: 300px;
+    height: 200px;
+    padding-top: 20px;
+}
+
+.footerloc>.certificationloc{
+    display: flex;
+    text-align: justify;
+    padding: 90px 0px;
+    width: 400px
+}
+
+.footerloc>.iconsloc{
+    width:100px;
+    height:70px;
+    margin: 55px 0px;
+}

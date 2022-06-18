@@ -1,0 +1,70 @@
+.logoloc{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    border-bottom: 2px solid #D36423;
+    margin: 0px 500px;
+}
+
+.logoloc>a>img{
+    width:450px;
+}
+
+.tag{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.content1{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 200px 100px 250px;
+    background: url("./images/japan24.png");
+}
+
+.buttons{
+    align-items: center;
+}
+
+
+.booking{
+    margin-top: 10px;
+}
+
+label{
+    display: flex;
+}
+
+input{
+    padding:7.3px;
+    background-color: whitesmoke;
+}
+
+input:hover{
+    -webkit-filter: opacity(0.5);
+    filter: sepia(100%);
+    color: #D36423;
+}
+
+.notice{
+    display: flex;
+    font-size: 15px;
+    margin: 30px 300px 0px 300px;
+    text-align: center;
+    padding: 30px 0px 100px 0px;
+    border-top: 1px solid #D36423;
+}
+
+
+input[type=text], [type=number], [type=password], [type=email], [type=date], [type=credit], [type=datetime-local], select {
+    width: 100%;
+    padding: 12px 20px;
+    /* margin: 8px 0; */
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}

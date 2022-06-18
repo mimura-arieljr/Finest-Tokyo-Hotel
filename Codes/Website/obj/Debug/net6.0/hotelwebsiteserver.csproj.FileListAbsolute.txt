@@ -1,0 +1,60 @@
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\bin\Debug\net6.0\hotelwebsiteserver.staticwebassets.runtime.json
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\bin\Debug\net6.0\hotelwebsiteserver.exe
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\bin\Debug\net6.0\hotelwebsiteserver.deps.json
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\bin\Debug\net6.0\hotelwebsiteserver.runtimeconfig.json
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\bin\Debug\net6.0\hotelwebsiteserver.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\bin\Debug\net6.0\ref\hotelwebsiteserver.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\bin\Debug\net6.0\hotelwebsiteserver.pdb
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.csproj.AssemblyReference.cache
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.AssemblyInfoInputs.cache
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.AssemblyInfo.cs
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.csproj.CoreCompileInputs.cache
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.RazorAssemblyInfo.cache
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.RazorAssemblyInfo.cs
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\obj\Debug\net6.0\scopedcss\bundle\hotelwebsiteserver.styles.css
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.csproj.CopyComplete
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\obj\Debug\net6.0\ref\hotelwebsiteserver.dll
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.pdb
+C:\Users\avmim\Desktop\Pointwest\Bootcamp Codes\Back End Development\Project Website\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.genruntimeconfig.cache
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\bin\Debug\net6.0\hotelwebsiteserver.staticwebassets.runtime.json
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\bin\Debug\net6.0\hotelwebsiteserver.exe
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\bin\Debug\net6.0\hotelwebsiteserver.deps.json
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\bin\Debug\net6.0\hotelwebsiteserver.runtimeconfig.json
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\bin\Debug\net6.0\hotelwebsiteserver.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\bin\Debug\net6.0\ref\hotelwebsiteserver.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\bin\Debug\net6.0\hotelwebsiteserver.pdb
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.csproj.AssemblyReference.cache
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.AssemblyInfoInputs.cache
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.AssemblyInfo.cs
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.csproj.CoreCompileInputs.cache
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.RazorAssemblyInfo.cache
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.RazorAssemblyInfo.cs
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\obj\Debug\net6.0\scopedcss\bundle\hotelwebsiteserver.styles.css
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.csproj.CopyComplete
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\obj\Debug\net6.0\ref\hotelwebsiteserver.dll
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.pdb
+C:\Users\avmim\Desktop\Silicon Valley\Bootcamp Codes\Back End Development\Finest Tokyo Hotel\Codes\Website\obj\Debug\net6.0\hotelwebsiteserver.genruntimeconfig.cache

@@ -1,0 +1,249 @@
+.menubar {
+  display: flex;
+  flex-direction: row;
+  animation: 1s ease-out 0s 1 slideInFromTop;
+  background-color: #A57D3E;
+  opacity: 0.9;
+}
+
+.background {
+  /* background: url("./images/background.gif");
+  background-size: cover; */
+  padding: 20px 0px 500px 0px;
+  margin-top: -10px;
+}
+#myVideo {
+  position: absolute;
+  text-align: center;
+  width: 1615px;
+  height: 1000px;
+  top: -50px;  
+  /* -ms-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -webkit-transform: translateX(-50%); */
+  transform: translateX(-6%);
+  z-index: -100;
+  background: url(video-bg.jpg) no-repeat;
+  background-size: cover; 
+}
+
+.dropicon {
+  width: 50px;
+  height: 50px;
+  margin-right: auto;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdowncontent {
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.dropdowncontent a {
+  color: black;
+  padding: 12px 50px 12px 0px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdowncontent a:hover {
+  background-color: whitesmoke;
+  border: 1px solid #d36423;
+  font-family: monospace;
+}
+
+.dropdown:hover .dropdowncontent {
+  display: block;
+  border: 1px solid #d36423;
+  font-family: monospace;
+  background-color: white;
+}
+
+.menuitems {
+  padding-top: 15px;
+  padding-right: 20px;
+  margin-left: auto;
+}
+
+.links{
+  color: white;
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  /* font-size: 120%; */
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0%;
+  padding: 0%;
+}
+
+.hello{
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.logo {
+  width: 700px;
+  transition: transform 1s;
+}
+
+.welcome {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 2px solid #d36423;
+  margin: 150px 230px 150px 230px;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.welcome > .first {
+  font-size: 45px;
+  text-align: center;
+}
+
+.welcome > .second {
+  font-size: 15px;
+  text-align: justify;
+  padding-top: 50px;
+}
+
+.lobby1 {
+  display: flex;
+  margin: 0px 150px;
+  border: 1px solid #d36423;
+  align-items: center;
+}
+
+.lobby1 > img {
+  width: 700px;
+  height: 400px;
+  transition: transform 1s;
+}
+
+.lobby1 > p {
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: sans-serif;
+}
+
+.lobby2 {
+  display: flex;
+  margin: 100px 150px;
+  border: 1px solid #d36423;
+  align-items: center;
+  flex-direction: row-reverse;
+}
+
+.lobby2 > img {
+  width: 600px;
+  height: 400px;
+  transition: transform 1s;
+}
+
+.lobby2 > p {
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: sans-serif;
+}
+
+.tagline {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  font-size: 30px;
+  border-top: 2px solid #d36423;
+  margin: 0px 200px;
+}
+
+.undertag {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  padding: 20px 200px;
+  font-size: 15px;
+}
+
+.lobby3 {
+  display: flex;
+  margin: 30px 60px;
+  border: 1px solid #d36423;
+}
+
+.lobby3 > img {
+  width: 700px;
+  height: 400px;
+  transition: transform 1s;
+}
+
+.footer {
+  display: flex;
+  margin: 300px 0px 0px;
+  border-top: 1px solid #d36423;
+  /* background-color: #355c7d; */
+  justify-content: space-evenly;
+}
+
+.footer > img {
+  width: 400px;
+  height: 200px;
+  transition: transform 1s;
+}
+
+.footer > .address {
+  display: flex;
+  text-align: justify;
+  margin: 70px 30px;
+  width: 200px;
+}
+
+.footer > .certification {
+  display: flex;
+  text-align: justify;
+  margin: 70px 60px;
+  width: 400px;
+}
+
+.footer > .icons {
+  width: 100px;
+  height: 70px;
+  margin: 55px 20px 55px 150px;
+}
+
+img:hover {
+  /* -webkit-filter: opacity(0.5);
+    filter:hue-rotate(20%); */
+  transform: scale(1.05);
+}
+
+img{
+  transition: transform 1s;
+}
+
+@keyframes slideInFromTop {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}

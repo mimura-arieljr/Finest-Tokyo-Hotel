@@ -1,0 +1,231 @@
+.menubar {
+    /* border-bottom: 4px solid black; */
+    display: flex;
+    flex-direction: row;
+    /* margin: 0%; */
+    animation: 1s ease-out 0s 1 slideInFromTop;
+    background-color: #A57D3E;
+    opacity: 0.5;
+  }
+  
+  .background {
+    padding: 20px 0px 500px 0px;
+    margin-top: -10px;
+  }
+  #myVideo {
+    position: absolute;
+    text-align: center;
+    width: 1615px;
+    height: 1000px;
+    top: -50px;  
+    transform: translateX(-6%);
+    z-index: -100;
+    background: url(video-bg.jpg) no-repeat;
+    background-size: cover; 
+  }
+  
+  .dropicon {
+    width: 50px;
+    height: 50px;
+    margin-right: auto;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdowncontent {
+    display: none;
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .dropdowncontent a {
+    color: black;
+    padding: 12px 50px 12px 0px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdowncontent a:hover {
+    background-color: whitesmoke;
+    border: 1px solid #d36423;
+    font-family: monospace;
+  }
+  
+  .dropdown:hover .dropdowncontent {
+    display: block;
+    border: 1px solid #d36423;
+    font-family: monospace;
+    background-color: white;
+  }
+  
+  .menuitems {
+    padding-top: 15px;
+    padding-right: 20px;
+    margin-left: auto;
+  }
+  
+  .links{
+    color: white;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  a:link {
+    text-decoration: none;
+  }
+  a:hover {
+    color: black;
+  }
+  
+  .logo:hover {
+    transform: scale(1.05);
+  }
+  
+  .logo{
+    transition: transform 1s;
+  }
+  
+  
+  .intro {
+    display: flex;
+    justify-content: center;
+    margin: 100px 300px 0px 300px;
+    flex-wrap: wrap;
+  }
+  
+  .intro1 {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    -webkit-animation: fadein 3s;
+  }
+  
+  .intro2 {
+    margin: 10px 50px 0px 50px;
+    font-size: 20px;
+    text-align: center;
+    border-left: 1px solid #d36423;
+    padding-left: 20px;
+    -webkit-animation: fadein 4s;
+  }
+  
+  @-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+  }
+  
+  .offers {
+    display: flex;
+    /* justify-content: space-evenly; */
+    justify-content: space-around;
+    padding-top: 180px;
+    flex-wrap: wrap;
+  }
+  
+  .offers1 {
+    display: flex;
+    margin: 10px 30px 20px 30px;
+    align-items: center;
+    flex-direction: column;
+    flex: 1 1 400px;
+    cursor: pointer;
+  }
+  
+  .offers1 > .imgoverlay > img {
+    width: 100%;
+    height: 363px;
+    object-fit: cover;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+  
+  .offers1 > .imgoverlay > .txtoverlay {
+    transition: .5s ease;
+    opacity: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate( 0%, -520%);
+    -ms-transform: translate(-0%, -700%);
+    text-align: center;
+  }
+  
+  .imgoverlay:hover img {
+    -webkit-filter: brightness(70%);
+  }
+  
+  .imgoverlay:hover .txtoverlay {
+    opacity: 1;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+  
+  .text {
+    background-color: #3c3c3c;
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px 0px;
+  }
+  
+  .offers1 > p {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  
+  .salestalk{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 150px 0px 0px 0px;   
+  }
+  
+  
+  .footer {
+    display: flex;
+    margin: 300px 0px 0px;
+    border-top: 1px solid #d36423;
+    /* background-color: #355c7d; */
+    justify-content: space-evenly;
+  }
+  
+  .footer > img {
+    width: 400px;
+    height: 200px;
+    transition: transform 1s;
+  }
+  
+  .footer > .address {
+    display: flex;
+    text-align: justify;
+    margin: 70px 30px;
+    width: 200px;
+  }
+  
+  .footer > .certification {
+    display: flex;
+    text-align: justify;
+    margin: 70px 60px;
+    width: 400px;
+  }
+  
+  .footer > .icons {
+    width: 100px;
+    height: 70px;
+    margin: 55px 20px 55px 150px;
+  }
+  
+  @keyframes slideInFromTop {
+    0% {
+      transform: translateY(-100%);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s/3X8yU3sXktv0oCxILKLiykqrMss6bcu+5SMxC0bmo=",
+  "Source": "hotelcmsserver",
+  "BasePath": "_content/hotelcmsserver",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

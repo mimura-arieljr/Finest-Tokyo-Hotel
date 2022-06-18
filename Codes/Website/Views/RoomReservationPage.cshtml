@@ -1,0 +1,86 @@
+@model RoomSelectionModel
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="ReachUsPage.css">
+    <link rel="stylesheet" type="text/css" href="RoomReservationPage.css">
+    <title>Reservation</title>
+</head>
+
+<body>
+    <ul class="menubar">
+        <div class="dropdown">
+            <img class="dropicon" src="./images/burger.png">
+            <div class="dropdowncontent">
+                <a href="/AboutPage">ABOUT US</a>
+                <a href="/StayWithUsPage">SUITES</a>
+                <a href="/EntryPage">EXPERIENCE</a>
+            </div>
+        </div>
+        <div class="menuitems">
+            <a href="/StayWithUsPage" class="links">STAY WITH US</a>
+            <a href="/DineWithUsPage" class="links"> | DINE WITH US</a>
+            <a href="/OffersPage" class="links"> | OFFERS</a>
+            <a href="/ReachUsPage" class="links"> | REACH US</a>
+        </div>
+    </ul>
+    <div class="logoloc">
+        <a href="/landingPage"><img class="logo" src="./images/finesttokyologo.png"></a>
+    </div>
+    <div class="intro">
+        <p class="intro1">COMPLETE YOUR BOOKING</p>
+        <p class="intro2">Listed are the available rooms that are currently available
+             based on your listed number of guests and the date of your reservation.
+        </p>
+    </div>
+
+    <div class=offers>
+        @foreach(KeyValuePair<int, RoomTypesModel> room in Model.rooms){
+            <div class="offers1">
+                <div class="imgoverlay">
+                    <img src="@room.Value.ImagePath">
+                    <div class="txtoverlay">
+                        <form method="POST" action="/roomselected">
+                            <input type="hidden" id="datefield" name="checkin" value="@Model.hotelbooking.CheckInDate">
+                            <input type="hidden" id="datefield" name="checkout" value="@Model.hotelbooking.CheckOutDate">
+                            <input type="hidden" id="gname" name="gname" value="@Model.hotelbooking.GuestName">
+                            <input type="hidden" id="guests" name="guests" value="@Model.hotelbooking.NoOfGuests">
+                            <input type="hidden" id="payment" name="payment" value="@Model.hotelbooking.PaymentType">
+                            <input type="hidden" id="rate" name="roomrate" value="@room.Value.RoomRate">
+                            <input type="hidden" id="roomType" name="roomType" value="@room.Value.Id">
+                            <input type="hidden" id="room" name="room" value="@room.Key">
+                            <input type="hidden" id="voucher" name="voucher" value="@Model.hotelbooking.VoucherCode">
+                            <input type="hidden" id="voucher" name="voucherSalePrice" value="@Model.hotelbooking.VoucherCodeDiscount">
+                            <input type="submit" class="text" value="BOOK NOW">
+                        </form>
+                    </div>
+                </div>
+                <p><b>@room.Value.RoomName</b></p>
+                <p>@room.Value.BedDetails</p>
+                <p>Room Size: @room.Value.RoomSize</p>
+                <p>Room Rate: JP¥@room.Value.RoomRate</p>
+            </div>
+        }
+    </div>
+    <p class="salestalk">PLEASE CHOOSE A ROOM YOU WISH TO BOOK A RESERVATION WITH.</p>
+
+    <div class="footer">
+        <img src="./images/finesttokyologo.png">
+        <div class="address">
+            221B Tsukiji, Chuo-ku, Tokyo, Japan
+            TEL: +81-(3)-4538
+        </div>
+        <div class="certification">
+            Finest Tokyo Hotel LTD Registered in Japan No. 232028 VAT Registration 956 1568 30 © 2021 Finest Tokyo
+            Hotel.
+        </div>
+        <img class="icons" src="./images/icons.jpg">
+    </div>
+
+</body>
+
+</html>
